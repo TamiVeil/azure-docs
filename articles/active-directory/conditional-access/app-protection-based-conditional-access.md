@@ -57,7 +57,7 @@ Organizations must complete the following steps in order to require the use of a
    1. Select **Mobile apps and desktop clients** and deselect everything else.
 1. Under **Access controls** > **Grant**, select the following options:
    - **Require approved client app**
-   - **Require app protection policy (preview)**
+   - **Require app protection policy (preview)** (Preview Features are not recommended for production environments -[Preview Terms of use](https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/))
    - **Require all the selected controls**
 1. Confirm your settings and set **Enable policy** to **On**.
 1. Select **Create** to create and enable your policy.
